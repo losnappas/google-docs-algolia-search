@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.1d6158fb.chunk.css",
-  "main.js": "/static/js/main.ce5b37f3.chunk.js",
-  "main.js.map": "/static/js/main.ce5b37f3.chunk.js.map",
-  "static/js/1.3599bbd9.chunk.js": "/static/js/1.3599bbd9.chunk.js",
-  "static/js/1.3599bbd9.chunk.js.map": "/static/js/1.3599bbd9.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.1d6158fb.chunk.css.map": "/static/css/main.1d6158fb.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.316aa3a6864f454309f75ad4b19040d0.js": "/precache-manifest.316aa3a6864f454309f75ad4b19040d0.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/google-docs-algolia-search/static/css/main.1d6158fb.chunk.css",
+  "main.js": "/google-docs-algolia-search/static/js/main.ce5b37f3.chunk.js",
+  "main.js.map": "/google-docs-algolia-search/static/js/main.ce5b37f3.chunk.js.map",
+  "static/js/1.eae482e8.chunk.js": "/google-docs-algolia-search/static/js/1.eae482e8.chunk.js",
+  "static/js/1.eae482e8.chunk.js.map": "/google-docs-algolia-search/static/js/1.eae482e8.chunk.js.map",
+  "runtime~main.js": "/google-docs-algolia-search/static/js/runtime~main.52aa13a7.js",
+  "runtime~main.js.map": "/google-docs-algolia-search/static/js/runtime~main.52aa13a7.js.map",
+  "static/css/main.1d6158fb.chunk.css.map": "/google-docs-algolia-search/static/css/main.1d6158fb.chunk.css.map",
+  "index.html": "/google-docs-algolia-search/index.html",
+  "precache-manifest.0d7caf2f8f57613b8503a76b93cd6a2a.js": "/google-docs-algolia-search/precache-manifest.0d7caf2f8f57613b8503a76b93cd6a2a.js",
+  "service-worker.js": "/google-docs-algolia-search/service-worker.js"
 }
