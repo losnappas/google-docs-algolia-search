@@ -34,3 +34,7 @@ Then run the indexer script with:
 ```sh
 ALGOLIA_API_KEY=... ALGOLIA_APP_ID=... node scripts/docs-indexer/run.sh
 ```
+
+## API keys on the frontend
+
+Change `appId` and `apiKey` in `src/App.js` at `algoliasearch("appId", "apiKey")`.
