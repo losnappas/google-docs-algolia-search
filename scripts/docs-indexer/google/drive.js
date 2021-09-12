@@ -29,7 +29,7 @@ module.exports.getThreeFiles = async () => {
   const drive = await getDrive();
 
   const files = await drive.files.list({
-    pageSize: 1,
+    pageSize: 1000,
     q: `(mimeType = 'application/vnd.google-apps.document')`,
   });
 
