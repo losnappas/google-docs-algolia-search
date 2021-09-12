@@ -5,6 +5,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "test": "echo no tests",
     "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix"
   },
