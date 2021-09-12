@@ -25,7 +25,7 @@ const getDrive = async () => {
   return _drive;
 };
 
-module.exports.getThreeFiles = async () => {
+module.exports.getFiles = async () => {
   const drive = await getDrive();
 
   const files = await drive.files.list({
@@ -33,7 +33,7 @@ module.exports.getThreeFiles = async () => {
     q: `(mimeType = 'application/vnd.google-apps.document')`,
   });
 
-  return await Promise.all(
+  return Promise.all(
     files.data.files.map(async f => {
       const file = await drive.files.get({
         fileId: f.id,
