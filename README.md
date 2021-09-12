@@ -2,6 +2,24 @@
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
+Stupid simple search of Google docs via Algolia.
+
+Features
+
+- Links directly to subheading
+- Indexes just about every google doc file (because I forgot to add the [size limit check](https://www.algolia.com/doc/guides/sending-and-managing-data/send-and-update-your-data/tutorials/google-drive-algolia/#case-1-you-dont-want-to-index-the-content) 😎) 
+
+Non-features
+
+- Images
+- Sheets or anything that isn't google docs
+- Nice layouts in search results; this is low effort. Prob worth to check it in gitpod if you're curious/looking for this. Contribute back thx!
+
+You'll need to:
+
+- Index your Google docs to Algolia (more on that below; use the script)
+- Fork this repo and change some of the hard coded keys (more on that below below)
+
 ## Get started
 
 To run this project locally, install the dependencies and run the local server:
